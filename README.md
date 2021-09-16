@@ -1,127 +1,111 @@
-Willian Joris Ayres
+# Willian Joris Ayres
 
+Analista de Qualidade de Software.<br/>
 Desenvolvedor Web - Junior / Front-end e Back-end.
 
-Analista de Qualidade de Software.
-
-🏠 Curitiba / Paraná
-
-📱 (41) 99637 - 2502
-
+🏠 Curitiba / Paraná <br/>
+📱 (41) 99637 - 2502 <br/>
 ✉️ will.joris@gmail.com
 
-Meu nome é Willian Ayres, sou Desenvolvedor Web e Analista de Qaulidade de Software. Apaixonado por PHP , com grande interesse em Javascript e React. Tecnico de Informática nas horas vagas, resolvendo problemas da área para familiares e amigos. Leio artigos científicos e de inovações, além de Gamer como hobbie.
+Meu nome é Willian Ayres, sou Analista de Qaulidade de Software e Desenvolvedor Web. Apaixonado por PHP , com grande interesse em Javascript e React. Tecnico de Informática nas horas vagas, resolvendo problemas da área para familiares e amigos. Leio diversos artigos científicos, assisto documentários e vídeos da área e sou Gamer como hobbie.
 
-Formação
+## Formação 
 
-Colégio Estadual do Paraná - Ensino Médio.
+Colégio Estadual do Paraná - Ensino Médio. <br/>
 Concluído em Dezembro de 2016.
 
-Universidade Tecnológica Federal do Paraná - Bacharelado em Engenharia Eletrônica.
+Universidade Tecnológica Federal do Paraná - Bacharelado em Engenharia Eletrônica. <br/>
 Previsão de conclusão para Dezembro de 2024 - Atualmente no 4º Período.
 
-Clique aqui para ver as disciplinas do curso.
+[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#técnico-em-informática)
 
-Experência Profissional
+## Experência Profissional
+* (2018 - 2020) <br/>
+**Internet** - 
+Densenvolvimento de WebSites/Landing Pages como Freelancer.
+  * Desenvolver Design para WebSites ou Landing Pages.
+  * Desenvolver e Estruturar WebSites ou Landing Pages.
+  * Manutenção de WebSites ou Landing Pages já desenvolvidos.
 
-    (2016)
-    Colégio Estadual do Paraná - Representante de turma.
-        Auxiliar e guiar a turma para um desenvolvimento coletivo aceitável.
-        Mediar informações entre a turma e a cordenação.
-        
-    (2016-2018)
-    Internet - Vendas de Contas de Jogos Mobile/Desktop.
-        Compra e Revenda de contas de diversos jogos para Mobile quanto Desktop.
-        Mediar vendas entre outros usuários de alguns jogos específicos.
+* (2016-2018) <br />
+**Internet** - 
+Vendas de Contas de Jogos Mobile/Desktop.
+  * Compra e Revenda de contas de diversos jogos para Mobile quanto Desktop.
+  * Mediar vendas entre outros usuários de alguns jogos específicos.
 
-    (2018 - 2020)
-    Internet - Densenvolvimento de WebSites/Landing Pages como Freelancer.
-        Desenvolver Design para WebSites ou Landing Pages.
-        Desenvolver e Estruturar WebSites ou Landing Pages.
-        Manutenção de WebSites ou Landing Pages já desenvolvidos.
+* (2016) <br/>
+**Colégio Estadual do Paraná** - 
+Representante de turma.
+  * Auxiliar e guiar a turma para um desenvolvimento coletivo aceitável.
+  * Mediar informações entre a turma e a cordenação.
 
-Conhecimentos
-Gerais
+## Conhecimentos
+
+### Gerais
   
-    AutoCAD.
-    Circuitos Elétricos/Eletrônicos.
-    Editores de Vídeo (ShotCut).
-    Inglês Avançado (Leitura e Escrita).
-    Lógica de Programação.
-    Microsoft Office.
-    Photoshop (Adobe).
-    Redes de Computadores.
-    SAP (Hana).
+* AutoCAD.
+* Circuitos Elétricos/Eletrônicos.
+* Editores de Vídeo (ShotCut).
+* Inglês Avançado (Leitura e Escrita).
+* Lógica de Programação.
+* Microsoft Office.
+* Photoshop (Adobe).
+* Redes de Computadores.
+* SAP (Hana).
 
-Sistemas Operacionais
+### Sistemas Operacionais
+* Linux (Ubuntu).
+* Windows (XP, 7, 8.1, 10).
 
-    Linux (Ubuntu)
-    Windows (XP, 7, 8.1, 10)
+### Front-end
+* HTML5
+  * Markdown.
 
-Front-end
+* CSS3 (Design Responsivo).
+  * SASS
+  * Arquitetura BEM
 
-    HTML5
-        Markdown.
-        
-    CSS3 (Design Responsivo).
-        SASS
-        Arquitetura BEM
+### UI Kits
+* Materialize.
+* Bootstrap (3, 4, 5).
 
-UI Kits
+### Frameworks Front-end
+* React.
 
-    Materialize.
-    Bootstrap.
+### Linguagens de Programação
+* C.
+* C++.
+* JavaScript.
+* PHP.
+* Python.
 
-Frameworks Front-end
+### Frameworks Back-end
+* Laravel.
 
-    React.js
+### Banco de Dados
+* MySQL.
+* PostgreSQL.
 
-Linguagens de Programação
+### Sistemas de controle de versão
+* Git.
 
-    C.
-    C++.
-    JavaScript.
-    PHP.
-    Python.
+### Metodologia
+* Scrum.
 
-Frameworks Back-end
+## Projetos
+* [Portfólio](https://davidallysson.github.io/)
 
-    Laravel
+## Cursos Completos
+* Curso Git e Github para iniciantes (Udemy / [Certificado](#))
+* Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
 
-Banco de Dados
-
-    MySQL.
-    PostgreSQL.
-
-Sistemas de controle de versão
-
-    Git.
-
-Metodologia
-
-    Scrum.
-
-Projetos
-
-    Site Pessoal
-    Engecall
-
-Cursos Completos
-
-    Curso Git e Github para iniciantes (Udemy / Certificado)
-    Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / Certificado)
+## Redes Sociais
+*  [Facebook](https://www.facebook.com/will.joris.9)
+*  [Instagram](https://twitter.com/will.joris)
+*  [Linkedin](https://www.linkedin.com/in/will.joris-527791118/)
 
 
+## Me ajude!
+Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
 
-Redes Sociais
-
-    Facebook
-    Instagram
-    Linkedin
-
-
-Me ajude!
-
-Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue!
-
-Inspirado no davidallysson. Confere o dele lá também!
+Inspirado no [davidallysson](https://github.com/davidallysson/curriculo). Confere o dele lá também!
