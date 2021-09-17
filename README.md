@@ -106,6 +106,4 @@ Representante de turma.
 
 
 ## Me ajude!
-Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
-
-Inspirado no [davidallysson](https://github.com/davidallysson/curriculo). Confere o dele lá também!
+Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br/>
