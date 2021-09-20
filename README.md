@@ -17,7 +17,7 @@ Concluído em Dezembro de 2016.
 Universidade Tecnológica Federal do Paraná - Bacharelado em Engenharia Eletrônica. <br/>
 Previsão de conclusão para Dezembro de 2024 - Atualmente no 4º Período.
 
-[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#técnico-em-informática)
+[_Clique aqui para ver as disciplinas do curso._](disciplines.md#técnico-em-informática)
 
 ## Experência Profissional
 * (2018 - 2020) <br/>
