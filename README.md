@@ -17,7 +17,7 @@ Concluído em Dezembro de 2016.
 Universidade Tecnológica Federal do Paraná - Bacharelado em Engenharia Eletrônica. <br/>
 Previsão de conclusão para Dezembro de 2024 - Atualmente no 4º Período.
 
-[_Clique aqui para ver as disciplinas do curso._](disciplines.md#Bachelor's Degree in Electronic Engineering)
+[_Clique aqui para ver as disciplinas do curso._](disciplines.md#bachelor's-degree-in-electronic-engineering)
 
 ## Experência Profissional
 * (2018 - 2020) <br/>
