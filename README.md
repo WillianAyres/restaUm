@@ -94,6 +94,10 @@ Representante de turma.
 
 ## Projetos
 * [Portfólio](https://github.io/)
+* [RestaUm-UTFPR](https://github.com/willianayres/projects/tree/main/resta-um-utfpr)
+* [RestaUm-Console](https://github.com/willianayres/projects/tree/main/resta-um-console)
+* [RestaUm-Estilizado](https://github.com/willianayres/projects/tree/main/resta-um-estilizado)
+* [Snake](https://github.com/willianayres/projects/tree/main/snake)
 
 ## Cursos Completos
 * Front-End Developer (DankiCode / [Certification](certificates/Certificado_FrontEnd.pdf))
