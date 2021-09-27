@@ -20,7 +20,7 @@ Previsão de conclusão para Dezembro de 2024 - Atualmente no 4º Período.
 [_Clique aqui para ver as disciplinas do curso._](disciplines.md#bachelors-degree-in-electronic-engineering)
 
 ## Experência Profissional
-* (2018 - 2020) <br/>
+* (2018 - 2021) <br/>
 **Internet** - 
 Densenvolvimento de WebSites/Landing Pages como Freelancer.
   * Desenvolver Design para WebSites ou Landing Pages.
@@ -63,7 +63,6 @@ Representante de turma.
 
 * CSS3 (Design Responsivo).
   * SASS
-  * Arquitetura BEM
 
 ### UI Kits
 * Materialize.
