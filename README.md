@@ -99,11 +99,12 @@ Representante de turma.
 * [Snake](https://github.com/willianayres/projects/tree/main/snake)
 
 ## Cursos Completos
-* Front-End Developer (DankiCode / [Certification](certificates/Certificado_FrontEnd.pdf))
-* Front-End Developer 2.0 (DankiCode / [Certification](certificates/Certificado_FrontEnd2.0.pdf))
-* CSS - Basics to Advanced (Udemy / [Certification](certificates/Certificado-CSS_Basics_To_Advanced_For_Front_End_Development_(2021).pdf))
-* SAP Hana (Udemy / [Certification](certificates/Certificado-SAP_Business_Analytics_Essential_Training.pdf))
-* Basic of Computer Networks (UTFPR / [Certification](certificates/Certificado-Curso_Basico_em_Redes_de_Computadores.pdf))
+* Front-End Developer (DankiCode / [Certification](certificates/FrontEnd.pdf))
+* Front-End Developer 2.0 (DankiCode / [Certification](certificates/FrontEnd2.0.pdf))
+* CSS - Basics to Advanced (Udemy / [Certification](certificates/CSS_Basics_To_Advanced_For_Front_End_Development_(2021).pdf))
+* SAP Essentials (Udemy / [Certification](certificates/SAP_Business_Analytics_Essential_Training.pdf))
+* SAP Hana (Udemy / [Certification](certificates/SAP_4HANA_Bootcamp_2021.pdf))
+* Basic of Computer Networks (UTFPR / [Certification](certificates/Curso_Basico_em_Redes_de_Computadores.pdf))
 
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/willian.joris)
