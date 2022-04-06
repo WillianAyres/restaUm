@@ -101,6 +101,8 @@ Representante de turma.
 ## Cursos Completos
 * Front-End Developer (DankiCode / [Certification](certificates/FrontEnd.pdf))
 * Front-End Developer 2.0 (DankiCode / [Certification](certificates/FrontEnd2.0.pdf))
+* PHP-Jedy (DankiCode / [Certification](certificates/PHP-Jedy.pdf))
+* Web-Design Express (DankiCode / [Certification](certificates/WebDesignExpress.pdf))
 * CSS - Basics to Advanced (Udemy / [Certification](certificates/CSS_Basics_To_Advanced_For_Front_End_Development_(2021).pdf))
 * SAP Essentials (Udemy / [Certification](certificates/SAP_Business_Analytics_Essential_Training.pdf))
 * SAP Hana (Udemy / [Certification](certificates/SAP_4HANA_Bootcamp_2021.pdf))
