@@ -1,6 +1,6 @@
 ## Sobre o curso
 
-Learn MySQL in No Time.
+Aprenda MySQL em pouco tempo.
 
 ### Informações
   
