@@ -1,6 +1,6 @@
 ## Sobre o curso
 
-A versão reformulada do nosso famoso Curso de Front-End conta com novos projetos práticos incríveis e uma nova metodologia de ensino incrível. Domine o Front-End moderno e esteja preparado para as melhores oportunidades!
+A versão reformulada do Curso de Front-End conta com novos projetos práticos incríveis e uma nova metodologia de ensino incrível. Dominando o Front-End moderno e para as melhores oportunidades!
 
 ### Informações
   
