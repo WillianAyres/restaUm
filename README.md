@@ -100,8 +100,8 @@ Representante de turma.
 
 ## Cursos Completos
 * Front-End Developer (DankiCode / [Certification](certificates/FrontEnd.pdf))
-* Front-End Developer 2.0 (DankiCode / [Certification](certificates/FrontEnd2.0.pdf))
-* Desenvolvimento Web Completo 2.0 (DankiCode / [Certification](certificates/DesenvolvimentoWebCompleto2.0.pdf))
+* Front-End Developer 2.0 (DankiCode / [Certification](certificates/coursers/frontend/FrontEnd2.0.pdf))
+* Desenvolvimento Web Completo 2.0 (DankiCode / [Certification](certificates/coursers/frontend2/DesenvolvimentoWebCompleto2.0.pdf))
 * PHP-Jedy (DankiCode / [Certification](certificates/PHP-Jedy.pdf))
 * Web-Design Express (DankiCode / [Certification](certificates/WebDesignExpress.pdf))
 * CSS - Basics to Advanced (Udemy / [Certification](certificates/courses/css/CSS_Basics_To_Advanced_For_Front_End_Development_(2021).pdf))
