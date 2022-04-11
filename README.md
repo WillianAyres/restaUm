@@ -101,13 +101,13 @@ Representante de turma.
 ## Cursos Completos
 * Front-End Developer (DankiCode / [Certification](certificates/courses/frontend/FrontEnd.pdf))
 * Front-End Developer 2.0 (DankiCode / [Certification](certificates/courses/frontend2/FrontEnd2.0.pdf))
-* Desenvolvimento Web Completo 2.0 (DankiCode / [Certification](certificates/courses/webdesign/DesenvolvimentoWebCompleto2.0.pdf))
+* Desenvolvimento Web Completo 2.0 (DankiCode / [Certification](certificates/courses/webdev2/DesenvolvimentoWebCompleto2.0.pdf))
 * PHP-Jedy (DankiCode / [Certification](certificates/courses/php/PHP-Jedy.pdf))
 * Web-Design Express (DankiCode / [Certification](certificates/courses/webdesign//WebDesignExpress.pdf))
 * CSS - Basics to Advanced (Udemy / [Certification](certificates/courses/css/CSS_Basics_To_Advanced_For_Front_End_Development_(2021).pdf))
 * SAP Essentials (Udemy / [Certification](certificates/courses/sap/SAP_Business_Analytics_Essential_Training.pdf))
 * SAP Hana (Udemy / [Certification](certificates/courses/sap-4hana/SAP_4HANA_Bootcamp_2021.pdf))
-* Basic of Computer Networks (UTFPR / [Certification](certificates/Curso_Basico_em_Redes_de_Computadores.pdf))
+* Basic of Computer Networks (UTFPR / [Certification](certificates/courses/redes/Curso_Basico_em_Redes_de_Computadores.pdf))
 
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/willian.joris)
