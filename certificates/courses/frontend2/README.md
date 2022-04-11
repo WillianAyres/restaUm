@@ -4,7 +4,7 @@ A versão reformulada do nosso famoso Curso de Front-End conta com novos projeto
 
 ### Informações
   
-* Duração: (55 aulas) - 5horas.
+* Duração: (55 aulas) - 10 horas.
 * Idioma: Português - Brasil.
 
 
