@@ -104,9 +104,9 @@ Representante de turma.
 * Desenvolvimento Web Completo 2.0 (DankiCode / [Certification](certificates/DesenvolvimentoWebCompleto2.0.pdf))
 * PHP-Jedy (DankiCode / [Certification](certificates/PHP-Jedy.pdf))
 * Web-Design Express (DankiCode / [Certification](certificates/WebDesignExpress.pdf))
-* CSS - Basics to Advanced (Udemy / [Certification](certificates/courses/css_basics_to_advanced_for_front_end_development_(2021)/CSS_Basics_To_Advanced_For_Front_End_Development_(2021).pdf))
+* CSS - Basics to Advanced (Udemy / [Certification](certificates/courses/css/CSS_Basics_To_Advanced_For_Front_End_Development_(2021).pdf))
 * SAP Essentials (Udemy / [Certification](certificates/SAP_Business_Analytics_Essential_Training.pdf))
-* SAP Hana (Udemy / [Certification](certificates/courses/sap_4hana_bootcamp_2021/SAP_4HANA_Bootcamp_2021.pdf))
+* SAP Hana (Udemy / [Certification](certificates/courses/sap-4hana/SAP_4HANA_Bootcamp_2021.pdf))
 * Basic of Computer Networks (UTFPR / [Certification](certificates/Curso_Basico_em_Redes_de_Computadores.pdf))
 
 ## Redes Sociais
