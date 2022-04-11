@@ -4,7 +4,7 @@ Torne-se um mestre em projetar, desenvolver, implementar e gerenciar bases de da
 
 ### Informações
   
-* Duração: (200 aulas) - 27 horas.
+* Duração: (25 aulas) - 5 horas.
 * Idioma: Português - Brasil.
 
 
