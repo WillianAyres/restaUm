@@ -22,32 +22,6 @@ Previsão de conclusão para Dezembro de 2024 - Atualmente no 4º Período.
 [_Clique aqui para ver as disciplinas do curso._](disciplines.md#bachelors-degree-in-electronic-engineering)<br />
 
 ## Experência Profissional
-* (2018 - 2021) <br/>
-**Internet** - 
-Densenvolvimento de WebSites/Landing Pages como Freelancer.
-  * Desenvolver Design para WebSites ou Landing Pages.
-  * Desenvolver e Estruturar WebSites ou Landing Pages.
-  * Manutenção de WebSites ou Landing Pages já desenvolvidos.
-
-* (2016) <br/>
-**Colégio Estadual do Paraná** - 
-Representante de turma.
-  * Auxiliar e guiar a turma para um desenvolvimento coletivo aceitável.
-  * Mediar informações entre a turma e a cordenação.
-
-* (2016-2018) <br />
-**Internet** - 
-Vendas de Contas de Jogos Mobile/Desktop.
-  * Compra e Revenda de contas de diversos jogos para Mobile quanto Desktop.
-  * Mediar vendas entre outros usuários de alguns jogos específicos.
-
-* (2021 - 2022) <br/>
-**Alta Rail Technology** - 
-Estágio em teste de Software.
-  * Auxiliar no desenvolvimento de casos de teste.
-  * Desenvolver planilhas e reports de teste.
-  * Auxiliar nos ciclos de homologação e reprovação dos produtos.
-  * Reportar bugs.
 
 * (2022 - Atualmente) <br/>
 **Alta Rail Technology** - 
@@ -57,7 +31,41 @@ Analista de Qualidade Júnior.
   * Executar iclos de homologação e reprovação dos produtos.
   * Analisar de documentos.
   * Reportar bugs.
-  * Automação de testes.<br />
+  * Automação de testes.
+
+* (2021 - 2022) <br/>
+**Alta Rail Technology** - 
+Estágio em teste de Software.
+  * Auxiliar no desenvolvimento de casos de teste.
+  * Desenvolver planilhas e reports de teste.
+  * Auxiliar nos ciclos de homologação e reprovação dos produtos.
+  * Reportar bugs.
+
+* (2018 - 2021) <br/>
+**Internet** - 
+Densenvolvimento de WebSites/Landing Pages como Freelancer.
+  * Desenvolver Design para WebSites ou Landing Pages.
+  * Desenvolver e Estruturar WebSites ou Landing Pages.
+  * Manutenção de WebSites ou Landing Pages já desenvolvidos.
+
+* (2018/1) <br />
+**Vivo** - 
+Auxiliar de Técnico de Telecomunicações.
+  * Auxilío na instalção de sistemas de telecom residencial.
+  * Configuração de dispositiovs de rede..
+  * Resolução de problemas básicos de comunicação.
+
+* (2016-2018) <br />
+**Internet** - 
+Vendas de Contas de Jogos Mobile/Desktop.
+  * Compra e Revenda de contas de diversos jogos para Mobile quanto Desktop.
+  * Mediar vendas entre outros usuários de alguns jogos específicos.
+
+* (2016) <br/>
+**Colégio Estadual do Paraná** - 
+Representante de turma.
+  * Auxiliar e guiar a turma para um desenvolvimento coletivo aceitável.
+  * Mediar informações entre a turma e a cordenação.<br />
 
 ## Conhecimentos
 
