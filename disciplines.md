@@ -1,5 +1,5 @@
 
-# Disciplines
+# Disciplinas
 
 #### Legenda
 * :heavy_check_mark:  Completo
@@ -11,7 +11,7 @@
 
 #### Obrigatórias
 
-| Name                                                                        | Period |  Done?        |
+| Nome                                                                        | Periodo|  Concluída?    |
 | --------------------------------------------------------------------------- |:-: | :----------------: |
 | Algorítims de Programação                                                   | 1  | :heavy_check_mark: |
 | Redes                                                                       | 1  | :heavy_check_mark: |
@@ -37,7 +37,7 @@
 | Cálculo Diferencial e Integral 3                                            | 4  | :heavy_plus_sign:  |
 | Equações Diferenciais e Ordinárias                                          | 4  | :heavy_check_mark: |
 | Física Teórica 2                                                            | 4  | :heavy_check_mark: |
-| Física Experimental                                                         | 4  | :heavy_check_sign: |
+| Física Experimental                                                         | 4  | :heavy_plus_sign:  |
 | Mecânica Geral                                                              | 5  | :heavy_minus_sign: |
 | Circuitos Digitais                                                          | 5  | :heavy_minus_sign: |
 | Sinais e Sistemas                                                           | 5  | :heavy_minus_sign: |
@@ -73,7 +73,7 @@
 
 #### Telecommunications Trail
 
-| Name                                                                        |       Done?        |
+| Nome                                                                        |     Concluída      |
 | --------------------------------------------------------------------------- | :----------------: |
 | Comunicações Sem Fio                                                        | :heavy_minus_sign: |
 | Sistemas de Comunicações                                                    | :heavy_minus_sign: |
@@ -83,7 +83,7 @@
 #### 
 Trilha Biomédica
 
-| Name                                                                        |       Done?        |
+| Nome                                                                        |     Concluída?     |
 | --------------------------------------------------------------------------- | :----------------: |
 | Engenharia Clínica                                                          | :heavy_minus_sign: |
 | Princípios de Biomédica                                                     | :heavy_minus_sign: |
@@ -94,7 +94,7 @@ Trilha Biomédica
 
 #### Trilha de Padrões e Processamento de Sinal
 
-| Name                                                                        |       Done?        |
+| Nome                                                                        |     Concluída  ?   |
 | --------------------------------------------------------------------------- | :----------------: |
 | Introdução à Modelagem e Aprendizado                                        | :heavy_minus_sign: |
 | Reconhecimento de Padrões e Aprendizado de Máquina                          | :heavy_minus_sign: |
@@ -104,7 +104,7 @@ Trilha Biomédica
 
 #### Optativas
 
-| Name                                                                        |       Done?        |
+| Nome                                                                        |     Concluída?     |
 | --------------------------------------------------------------------------- | :----------------: |
 | Lógica Reconfigurável                                                       | :heavy_minus_sign: |
 | Energia Fotovoltaica                                                        | :heavy_minus_sign: |
