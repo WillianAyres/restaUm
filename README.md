@@ -19,9 +19,8 @@ Concluído em Dezembro de 2016.
 Universidade Tecnológica Federal do Paraná - Bacharelado em Engenharia Eletrônica. <br/>
 Previsão de conclusão para Dezembro de 2024 - Atualmente no 4º Período.
 
-[_Clique aqui para ver as disciplinas do curso._](disciplines.md#bachelors-degree-in-electronic-engineering)
+[_Clique aqui para ver as disciplinas do curso._](disciplines.md#bachelors-degree-in-electronic-engineering)<br />
 
-<br />
 ## Experência Profissional
 * (2018 - 2021) <br/>
 **Internet** - 
@@ -58,9 +57,8 @@ Analista de Qualidade Júnior.
   * Executar iclos de homologação e reprovação dos produtos.
   * Analisar de documentos.
   * Reportar bugs.
-  * Automação de testes.
+  * Automação de testes.<br />
 
-<br />
 ## Conhecimentos
 
 ### Gerais
@@ -128,9 +126,8 @@ Analista de Qualidade Júnior.
 
 ### Metodologia
 * Scrum.
-* Kanbam.
+* Kanbam.<br />
 
-<br />
 ## Projetos
 * [RestaUm-UTFPR](https://github.com/willianayres/projects/tree/main/resta-um-utfpr)
 * [RestaUm-Console](https://github.com/willianayres/projects/tree/main/resta-um-console)
@@ -138,9 +135,8 @@ Analista de Qualidade Júnior.
 * [Snake](https://github.com/willianayres/projects/tree/main/snake)
 * [Shift AW](https://www.shiftaw.com.br)
 * [Olímpico Soldas](https://olimpicosoldas.com.br)
-* [Metale Metais](https://metalemetais.com.br)
+* [Metale Metais](https://metalemetais.com.br)<br />
 
-<br />
 ## Cursos Completos
 * Front-End Developer (DankiCode / [Certification](certificates/courses/frontend/FrontEnd.pdf))
 * Front-End Developer 2.0 (DankiCode / [Certification](certificates/courses/frontend2/FrontEnd2.0.pdf))
@@ -151,19 +147,16 @@ Analista de Qualidade Júnior.
 * CSS - Basics to Advanced (Udemy / [Certification](certificates/courses/css/CSS_Basics_To_Advanced_For_Front_End_Development_(2021).pdf))
 * SAP Essentials (Udemy / [Certification](certificates/courses/sap/SAP_Business_Analytics_Essential_Training.pdf))
 * SAP Hana (Udemy / [Certification](certificates/courses/sap-4hana/SAP_4HANA_Bootcamp_2021.pdf))
-* Basic of Computer Networks (UTFPR / [Certification](certificates/courses/redes/Curso_Basico_em_Redes_de_Computadores.pdf))
+* Basic of Computer Networks (UTFPR / [Certification](certificates/courses/redes/Curso_Basico_em_Redes_de_Computadores.pdf))<br />
 
-<br />
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/willian.joris)
 *  [Instagram](https://www.instagram.com/willjoris/)
-*  [Linkedin](https://www.linkedin.com/in/willian-j-ayres/)
+*  [Linkedin](https://www.linkedin.com/in/willian-j-ayres/)<br />
 
-<br />
 ## Shift AW
 *  [Website](https://www.shiftaw.com.br)
-*  [Instagram](https://www.instagram.com/shift_aw/)
+*  [Instagram](https://www.instagram.com/shift_aw/)<br />
 
-<br />
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br/>
