@@ -24,9 +24,9 @@
 | Geometrica Analítica e Algebra Linear                                       | 2  | :heavy_check_mark: |
 | Desenho Técnico Aplicado                                                    | 2  | :heavy_check_mark: |
 | Programação de Computador                                                   | 2  | :heavy_check_mark: |
-| Ciências do Ambiente                                                        | 2  | :heavy_plus_sign:  |
-| Medidas Elétricas                                                           | 3  | :heavy_minus_sign: |
-| Cálculo Diferencial e Integral 2                                            | 3  | :heavy_check_mark: |
+| Ciências do Ambiente                                                        | 2  | :heavy_minus_sign: |
+| Medidas Elétricas                                                           | 3  | :heavy_plus_mark:  |
+| Cálculo Diferencial e Integral 2                                            | 3  | :heavy_plux_mark:  |
 | Oficina de Integração: Eletricidade, Eletrônica e Computação na Prática     | 3  | :heavy_minus_sign: |
 | Circuitos Elétricos 1                                                       | 3  | :heavy_plus_sign:  |
 | Estrutura de Dados e Algorítimos                                            | 3  | :heavy_check_mark: |
@@ -34,10 +34,10 @@
 | Probabilidade e Estatística                                                 | 3  | :heavy_check_mark: |
 | Eletrônica Analógica 1                                                      | 4  | :heavy_minus_sign: |
 | Circuitos Elétricos 2                                                       | 4  | :heavy_minus_sign: |
-| Cálculo Diferencial e Integral 3                                            | 4  | :heavy_minus_sign: |
-| Equações Diferenciais e Ordinárias                                          | 4  | :heavy_plus_sign: |
-| Física Teórica 2                                                            | 4  | :heavy_minus_sign: |
-| Física Experimental                                                         | 4  | :heavy_minus_sign: |
+| Cálculo Diferencial e Integral 3                                            | 4  | :heavy_plus_sign: |
+| Equações Diferenciais e Ordinárias                                          | 4  | :heavy_check_mark: |
+| Física Teórica 2                                                            | 4  | :heavy_check_mark: |
+| Física Experimental                                                         | 4  | :heavy_check_sign: |
 | Mecânica Geral                                                              | 5  | :heavy_minus_sign: |
 | Circuitos Digitais                                                          | 5  | :heavy_minus_sign: |
 | Sinais e Sistemas                                                           | 5  | :heavy_minus_sign: |
