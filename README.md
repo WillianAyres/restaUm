@@ -27,35 +27,65 @@ Densenvolvimento de WebSites/Landing Pages como Freelancer.
   * Desenvolver e Estruturar WebSites ou Landing Pages.
   * Manutenção de WebSites ou Landing Pages já desenvolvidos.
 
-* (2016-2018) <br />
-**Internet** - 
-Vendas de Contas de Jogos Mobile/Desktop.
-  * Compra e Revenda de contas de diversos jogos para Mobile quanto Desktop.
-  * Mediar vendas entre outros usuários de alguns jogos específicos.
-
 * (2016) <br/>
 **Colégio Estadual do Paraná** - 
 Representante de turma.
   * Auxiliar e guiar a turma para um desenvolvimento coletivo aceitável.
   * Mediar informações entre a turma e a cordenação.
 
+* (2016-2018) <br />
+**Internet** - 
+Vendas de Contas de Jogos Mobile/Desktop.
+  * Compra e Revenda de contas de diversos jogos para Mobile quanto Desktop.
+  * Mediar vendas entre outros usuários de alguns jogos específicos.
+
+* (2021 - 2022) <br/>
+**Alta Rail Technology** - 
+Estágio em teste de Software.
+  * Auxiliar no desenvolvimento de casos de teste.
+  * Desenvolver planilhas e reports de teste.
+  * Auxiliar nos ciclos de homologação e reprovação dos produtos.
+  * Reportar bugs.
+
+* (2022 - Atualmente) <br/>
+**Alta Rail Technology** - 
+Analista de Qualidade Júnior.
+  * Desenvolvimento de casos de teste.
+  * Desenvolver planilhas e reports de teste.
+  * Executar iclos de homologação e reprovação dos produtos.
+  * Analisar de documentos.
+  * Reportar bugs.
+  * Automação de testes.
+
+
 ## Conhecimentos
 
 ### Gerais
   
-* AutoCAD.
+* APIs.
+* Protocólos Web.
 * Circuitos Elétricos/Eletrônicos.
-* Editores de Vídeo (ShotCut).
+* Editores de Vídeo.
 * Inglês Avançado (Leitura e Escrita).
 * Lógica de Programação.
-* Microsoft Office.
-* Photoshop (Adobe).
 * Redes de Computadores.
 * SAP (Hana).
 
+### Ferramentas
+ * AutoCad
+ * ShotCut
+ * Pacote Office (Avançado).
+ * Pacote Adobe (Photoshop e XD)
+ * TestLink.
+ * Jira Software.
+ * SeSuite.
+ * Github.
+ * Postman.
+ * Visual Studio Code.
+
 ### Sistemas Operacionais
 * Linux (Ubuntu).
-* Windows (XP, 7, 8.1, 10).
+* Windows (XP, 7, 8.1, 10, 11).
 
 ### Front-end
 * HTML5.
@@ -98,7 +128,6 @@ Representante de turma.
 * Kanbam.
 
 ## Projetos
-* [Portfólio](https://github.io/)
 * [RestaUm-UTFPR](https://github.com/willianayres/projects/tree/main/resta-um-utfpr)
 * [RestaUm-Console](https://github.com/willianayres/projects/tree/main/resta-um-console)
 * [RestaUm-Estilizado](https://github.com/willianayres/projects/tree/main/resta-um-estilizado)
