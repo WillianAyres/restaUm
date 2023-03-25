@@ -7,8 +7,10 @@ Desenvolvedor Web - Junior / Front-end e Back-end.
 📱 (41) 99637 - 2502 <br/>
 ✉️ will.joris@gmail.com
 
-Meu nome é Willian Ayres, sou Analista de Qualidade de Software e Desenvolvedor Web. Apaixonado por PHP , com grande interesse em Javascript e React. Tecnico de Informática nas horas vagas, resolvendo problemas da área para familiares e amigos. Leio diversos artigos científicos, assisto documentários e vídeos da área e sou Gamer como hobbie.
+Meu nome é Willian Ayres, sou Analista de Qualidade de Software e Desenvolvedor Web. Apaixonado por PHP , com grande interesse em Javascript e React. 
+Leio diversos artigos científicos, assisto documentários e vídeos da área e sou Gamer como hobbie.
 
+<br />
 ## Formação 
 
 Colégio Estadual do Paraná - Ensino Médio. <br/>
@@ -19,6 +21,7 @@ Previsão de conclusão para Dezembro de 2024 - Atualmente no 4º Período.
 
 [_Clique aqui para ver as disciplinas do curso._](disciplines.md#bachelors-degree-in-electronic-engineering)
 
+<br />
 ## Experência Profissional
 * (2018 - 2021) <br/>
 **Internet** - 
@@ -57,7 +60,7 @@ Analista de Qualidade Júnior.
   * Reportar bugs.
   * Automação de testes.
 
-
+<br />
 ## Conhecimentos
 
 ### Gerais
@@ -127,6 +130,7 @@ Analista de Qualidade Júnior.
 * Scrum.
 * Kanbam.
 
+<br />
 ## Projetos
 * [RestaUm-UTFPR](https://github.com/willianayres/projects/tree/main/resta-um-utfpr)
 * [RestaUm-Console](https://github.com/willianayres/projects/tree/main/resta-um-console)
@@ -136,6 +140,7 @@ Analista de Qualidade Júnior.
 * [Olímpico Soldas](https://olimpicosoldas.com.br)
 * [Metale Metais](https://metalemetais.com.br)
 
+<br />
 ## Cursos Completos
 * Front-End Developer (DankiCode / [Certification](certificates/courses/frontend/FrontEnd.pdf))
 * Front-End Developer 2.0 (DankiCode / [Certification](certificates/courses/frontend2/FrontEnd2.0.pdf))
@@ -148,15 +153,17 @@ Analista de Qualidade Júnior.
 * SAP Hana (Udemy / [Certification](certificates/courses/sap-4hana/SAP_4HANA_Bootcamp_2021.pdf))
 * Basic of Computer Networks (UTFPR / [Certification](certificates/courses/redes/Curso_Basico_em_Redes_de_Computadores.pdf))
 
+<br />
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/willian.joris)
 *  [Instagram](https://www.instagram.com/willjoris/)
 *  [Linkedin](https://www.linkedin.com/in/willian-j-ayres/)
 
+<br />
 ## Shift AW
 *  [Website](https://www.shiftaw.com.br)
 *  [Instagram](https://www.instagram.com/shift_aw/)
 
-
+<br />
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br/>
