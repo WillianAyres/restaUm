@@ -7,9 +7,9 @@
 * :heavy_minus_sign:  Não Iniciado
 
 
-### Bachelor's Degree in Electronic Engineering
+### Bacharelado em Engenharia Eletrônica
 
-#### Required
+#### Obrigatórias
 
 | Name                                                                        | Period |  Done?        |
 | --------------------------------------------------------------------------- |:-: | :----------------: |
@@ -35,7 +35,7 @@
 | Eletrônica Analógica 1                                                      | 4  | :heavy_minus_sign: |
 | Circuitos Elétricos 2                                                       | 4  | :heavy_minus_sign: |
 | Cálculo Diferencial e Integral 3                                            | 4  | :heavy_minus_sign: |
-| Equações Diferenciais e Ordinárias                                          | 4  | :heavy_minus_sign: |
+| Equações Diferenciais e Ordinárias                                          | 4  | :heavy_plus_sign: |
 | Física Teórica 2                                                            | 4  | :heavy_minus_sign: |
 | Física Experimental                                                         | 4  | :heavy_minus_sign: |
 | Mecânica Geral                                                              | 5  | :heavy_minus_sign: |
@@ -80,7 +80,8 @@
 | Comunicações Ópticas                                                        | :heavy_minus_sign: |
 
 
-#### Biomedical Trail
+#### 
+Trilha Biomédica
 
 | Name                                                                        |       Done?        |
 | --------------------------------------------------------------------------- | :----------------: |
@@ -91,7 +92,7 @@
 | Bioengenharia                                                               | :heavy_minus_sign: |
 
 
-#### Signal Processing and Standards Trail
+#### Trilha de Padrões e Processamento de Sinal
 
 | Name                                                                        |       Done?        |
 | --------------------------------------------------------------------------- | :----------------: |
@@ -101,7 +102,7 @@
 
 
 
-#### Optionals
+#### Optativas
 
 | Name                                                                        |       Done?        |
 | --------------------------------------------------------------------------- | :----------------: |
