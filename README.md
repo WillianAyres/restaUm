@@ -8,9 +8,9 @@ Desenvolvedor Web - Junior / Front-end e Back-end.
 ✉️ will.joris@gmail.com
 
 Meu nome é Willian Ayres, sou Analista de Qualidade de Software e Desenvolvedor Web. Apaixonado por PHP , com grande interesse em Javascript e React. 
-Leio diversos artigos científicos, assisto documentários e vídeos da área e sou Gamer como hobbie.
+Leio diversos artigos científicos, assisto documentários e vídeos da área e sou Gamer como hobbie.<br />
 
-<br />
+
 ## Formação 
 
 Colégio Estadual do Paraná - Ensino Médio. <br/>
