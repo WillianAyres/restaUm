@@ -58,14 +58,15 @@ Representante de turma.
 * Windows (XP, 7, 8.1, 10).
 
 ### Front-end
-* HTML5
+* HTML5.
   * Markdown.
 
 * CSS3 (Design Responsivo).
-  * SASS
+  * SASS.
 
 ### UI Kits
 * Materialize.
+* Material UI.
 * Bootstrap (3, 4, 5).
 
 ### Frameworks Front-end
@@ -79,10 +80,14 @@ Representante de turma.
 * Python.
 
 ### Frameworks Back-end
-* Laravel.
+* Node JS.
+* Express JS.
+* Redux.
+* REST API.
 
 ### Banco de Dados
 * MySQL.
+* Oracle.
 * PostgreSQL.
 
 ### Sistemas de controle de versão
@@ -90,6 +95,7 @@ Representante de turma.
 
 ### Metodologia
 * Scrum.
+* Kanbam.
 
 ## Projetos
 * [Portfólio](https://github.io/)
@@ -97,6 +103,9 @@ Representante de turma.
 * [RestaUm-Console](https://github.com/willianayres/projects/tree/main/resta-um-console)
 * [RestaUm-Estilizado](https://github.com/willianayres/projects/tree/main/resta-um-estilizado)
 * [Snake](https://github.com/willianayres/projects/tree/main/snake)
+* [Shift AW](https://www.shiftaw.com.br)
+* [Olímpico Soldas](https://olimpicosoldas.com.br)
+* [Metale Metais](https://metalemetais.com.br)
 
 ## Cursos Completos
 * Front-End Developer (DankiCode / [Certification](certificates/courses/frontend/FrontEnd.pdf))
@@ -114,6 +123,10 @@ Representante de turma.
 *  [Facebook](https://www.facebook.com/willian.joris)
 *  [Instagram](https://www.instagram.com/willjoris/)
 *  [Linkedin](https://www.linkedin.com/in/willian-j-ayres/)
+
+## Shift AW
+*  [Website](https://www.shiftaw.com.br)
+*  [Instagram](https://www.instagram.com/shift_aw/)
 
 
 ## Me ajude!
