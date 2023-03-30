@@ -158,6 +158,7 @@ Representante de turma.
 * Web-Design Express (DankiCode / [Certification](certificates/courses/webdesign/WebDesignExpress.pdf))
 * Banco de Dados (DankiCode / [Certification](certificates/courses/db/Banco_De_Dados.pdf))
 * CSS - Basics to Advanced (Udemy / [Certification](certificates/courses/css/CSS_Basics_To_Advanced_For_Front_End_Development_(2021).pdf))
+* ReactJS - The Complete ReactJs Course Basics to Advanced (Udemy / [Certification](certificates/courses/react/The_Complete_ReactJs_Course-Basics_to_Advanced.pdf))
 * SAP Essentials (Udemy / [Certification](certificates/courses/sap/SAP_Business_Analytics_Essential_Training.pdf))
 * SAP Hana (Udemy / [Certification](certificates/courses/sap-4hana/SAP_4HANA_Bootcamp_2021.pdf))
 * Basic of Computer Networks (UTFPR / [Certification](certificates/courses/redes/Curso_Basico_em_Redes_de_Computadores.pdf))<br />
