@@ -26,16 +26,6 @@ Previsão de conclusão para Dezembro de 2024 - Atualmente no 4º Período.
 * (2022 - Atualmente) <br/>
 **Alta Rail Technology** - 
 Analista de Qualidade Júnior.
-  * Desenvolvimento de casos de teste.
-  * Desenvolver planilhas e reports de teste.
-  * Executar iclos de homologação e reprovação dos produtos.
-  * Analisar de documentos.
-  * Reportar bugs.
-  * Automação de testes.
-
-* (2021 - 2022) <br/>
-**Alta Rail Technology** - 
-Estágio em teste de Software.
     * Acompanhar a reprodução de defeitos e diagnósticos de falhas de software;
     * Auxiliar na elaboração de planos de testes de software;
     * Auxiliar no desenvolvimento de casos de teste;
@@ -46,6 +36,15 @@ Estágio em teste de Software.
     * Automatização de testes;
     * Auxílio e treinamento para utilização de produtos e programas oferecidos pela empresa;
     * Analisar documentos e requisitos.
+
+* (2021 - 2022) <br/>
+**Alta Rail Technology** - 
+Estágio em teste de Software.
+    * Acompanhar a reprodução de defeitos e diagnósticos de falhas de software;
+    * Desenvolver planilhas e Reports de teste;
+    * Auxiliar nos ciclos de homologação e reprovação dos produtos;
+    * Reportar bugs;
+    * Acompanhar testes de software e sistemas embarcados para aplicação em ferrovias.
 
 * (2018 - 2021) <br/>
 **Internet** - 
