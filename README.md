@@ -36,10 +36,16 @@ Analista de Qualidade Júnior.
 * (2021 - 2022) <br/>
 **Alta Rail Technology** - 
 Estágio em teste de Software.
-  * Auxiliar no desenvolvimento de casos de teste.
-  * Desenvolver planilhas e reports de teste.
-  * Auxiliar nos ciclos de homologação e reprovação dos produtos.
-  * Reportar bugs.
+    * Acompanhar a reprodução de defeitos e diagnósticos de falhas de software;
+    * Auxiliar na elaboração de planos de testes de software;
+    * Auxiliar no desenvolvimento de casos de teste;
+    * Desenvolver planilhas e Reports de teste;
+    * Auxiliar nos ciclos de homologação e reprovação dos produtos;
+    * Reportar bugs;
+    * Acompanhar testes de software e sistemas embarcados para aplicação em ferrovias;
+    * Automatização de testes;
+    * Auxílio e treinamento para utilização de produtos e programas oferecidos pela empresa;
+    * Analisar documentos e requisitos.
 
 * (2018 - 2021) <br/>
 **Internet** - 
