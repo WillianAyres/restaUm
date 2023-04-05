@@ -1,6 +1,6 @@
 # Willian Joris Ayres
 
-Analista de Qualidade de Software.<br/>
+Analista de Qualidade de Software Junior.<br/>
 Desenvolvedor Web - Junior / Front-end e Back-end.
 
 🏠 Curitiba / Paraná <br/>
@@ -167,10 +167,6 @@ Representante de turma.
 *  [Facebook](https://www.facebook.com/willian.joris)
 *  [Instagram](https://www.instagram.com/willjoris/)
 *  [Linkedin](https://www.linkedin.com/in/willian-j-ayres/)<br />
-
-## Shift AW
-*  [Website](https://www.shiftaw.com.br)
-*  [Instagram](https://www.instagram.com/shift_aw/)<br />
 
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br/>
