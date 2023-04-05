@@ -146,7 +146,6 @@ Representante de turma.
 * [RestaUm-Console](https://github.com/willianayres/projects/tree/main/resta-um-console)
 * [RestaUm-Estilizado](https://github.com/willianayres/projects/tree/main/resta-um-estilizado)
 * [Snake](https://github.com/willianayres/projects/tree/main/snake)
-* [Shift AW](https://www.shiftaw.com.br)
 * [Olímpico Soldas](https://olimpicosoldas.com.br)
 * [Metale Metais](https://metalemetais.com.br)<br />
 
