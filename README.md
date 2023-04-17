@@ -160,7 +160,8 @@ Representante de turma.
 * ReactJS - The Complete ReactJs Course Basics to Advanced (Udemy / [Certification](certificates/courses/react/The_Complete_ReactJs_Course-Basics_to_Advanced.pdf))
 * SAP Essentials (Udemy / [Certification](certificates/courses/sap/SAP_Business_Analytics_Essential_Training.pdf))
 * SAP Hana (Udemy / [Certification](certificates/courses/sap-4hana/SAP_4HANA_Bootcamp_2021.pdf))
-* Basic of Computer Networks (UTFPR / [Certification](certificates/courses/redes/Curso_Basico_em_Redes_de_Computadores.pdf))<br />
+* Basic of Computer Networks (UTFPR / [Certification](certificates/courses/redes/Curso_Basico_em_Redes_de_Computadores.pdf))
+* Jira (YouTube / [Certification](certificates/courses/jira/Jira.pdf))<br />
 
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/willian.joris)
